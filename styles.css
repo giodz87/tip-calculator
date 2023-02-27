@@ -181,6 +181,8 @@ h4 {
   line-height: 47px;
   text-align: right;
   letter-spacing: -0.666667px;
+  overflow: hidden;
+  width: 54%;
 }
 /*///////////////////////////////////////////////////////////////////////////////////////////////////
                                             @media (min-width: 1210px) 
@@ -281,5 +283,6 @@ h4 {
     text-align: right;
     letter-spacing: -1px;
     color: #26c2ae;
+    width: 69%;
   }
 }
